@@ -37,14 +37,11 @@
 
 #### Studying in this moment:
 
-![KOTLIN](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white
-)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,flutter,python,swift,reaction&theme=dark)](https://skillicons.dev)
 
 #### Workstation Tools:
 
-![VISUAL STUDIO](&logoColor=white)&nbsp;
-![INTELLIJ](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,trello,androidstudio,firebase,gradle,mongodb,figma,idea&perline=3)](https://skillicons.dev)
 &nbsp;
 &nbsp;
 
