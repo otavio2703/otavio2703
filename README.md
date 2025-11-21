@@ -19,11 +19,7 @@
 
 #### Main Stack:
 
-![ADOBE PREMIERE PRO](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white
-)&nbsp;
-![ADOBE AFTER EFFECTS](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665
-)&nbsp;
-![CHAT GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,python)](https://skillicons.dev)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -37,7 +33,7 @@
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,flutter,python,swift,reaction&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,flutter,swift,reaction&theme=dark)](https://skillicons.dev)
 
 #### Workstation Tools:
 
