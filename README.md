@@ -31,7 +31,7 @@
 
 #### Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,notion,jira,androidstudio,firebase,gradle,mongodb,figma,trello,idea&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,aws,androidstudio,firebase,gradle,mongodb,figma,discord,idea&perline=3)](https://skillicons.dev)
 &nbsp;
 &nbsp;
 
