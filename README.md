@@ -19,7 +19,7 @@
 
 #### Main Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,python,react,dart,bot,androidstudio,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,python,react,dart,bots,androidstudio,opencv)](https://skillicons.dev)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
