@@ -27,7 +27,7 @@
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,swift,mysql,go,php,aws,blender,c,cs,flutter,jquery,laravel,pytorch,redhat,vue,,reaction&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,swift,mysql,go,php,aws,blender,c,cs,flutter,jquery,laravel,pytorch,redhat,vue,,reaction&perline=4&theme=dark)](https://skillicons.dev)
 
 #### Workstation Tools:
 
