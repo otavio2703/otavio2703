@@ -19,7 +19,7 @@
 
 #### Main Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,python,react,dart,bots,androidstudio,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,python,react,dart,bots,androidstudio,opencv,replit,tailwind&perline=6)](https://skillicons.dev)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -27,7 +27,7 @@
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,swift,mysql,reaction&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,swift,mysql,go,php,aws,blender,c,cs,flutter,jquery,laravel,pytorch,redhat,vue,,reaction&theme=dark)](https://skillicons.dev)
 
 #### Workstation Tools:
 
